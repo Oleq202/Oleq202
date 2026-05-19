@@ -1,4 +1,4 @@
-# Hi, I'm Aleksander!
+## Hi, I'm Aleksander!
 
 I am an **Artificial Intelligence** student at the **Poznan University of Technology**. I am a passionate software developer and data enthusiast focusing on building interactive web applications, data visualization pipelines, and exploring AI-driven solutions. 
 
