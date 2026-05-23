@@ -19,7 +19,7 @@ Beyond pure backend and AI logic, I have a deep passion for high-fidelity archit
 ### Featured Projects
 
 #### 🏎️ F1-Analyzer Dashboard
-An interactive, full-stack data analysis platform designed to visualize real-time and historical Formula 1 racing data, driver performance, and telemetry strategies.
+An interactive, full-stack data analysis platform designed to visualize historical Formula 1 racing data, driver performance, and telemetry strategies.
 * **Stack:** React, FastAPI, PostgreSQL, OpenF1 API
 * **Focus:** Built a responsive dashboard frontend to process and map complex telemetry datasets into highly informative visual graphs.
 
@@ -31,7 +31,7 @@ A performance-oriented property matching engine built to simulate or process rea
 ---
 
 ### Contact
-I am actively looking for opportunities in backend engineering, systems integration, or AI deployment.
+I am actively looking for opportunities in backend engineering or AI deployment.
 
 * **Linkedin:** https://www.linkedin.com/in/aleksander-widman/
 * **Email:** aleksander.widman@gmail.com
