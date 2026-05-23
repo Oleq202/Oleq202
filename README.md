@@ -2,7 +2,7 @@
 
 I am an **Artificial Intelligence** student at the **Poznan University of Technology**. I am a passionate software developer and data enthusiast focusing on building interactive web applications, data visualization pipelines, and exploring AI-driven solutions. 
 
-Beyond pure backend and AI logic, I have a massive love for high-fidelity architectural design in Minecraft and sports like tennis, cycling, and mountain hiking.
+Beyond pure backend and AI logic, I have a deep passion for high-fidelity architectural design in Minecraft and sports like tennis, cycling, and mountain hiking.
 
 ---
 
