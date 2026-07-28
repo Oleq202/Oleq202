@@ -28,10 +28,15 @@ A performance-oriented property matching engine built to simulate or process rea
 * **Stack:** C++, Java, Object-Oriented Programming (OOP)
 * **Focus:** Implemented custom multi-criteria matching logic using robust OOP design and core data structures. Users can dynamically tailor specific parameters (such as price, dimensions, or location criteria), and the engine efficiently computes and returns the closest mathematical matches.
 
+#### 🏢 Structura
+A full-stack field service management system for property maintenance that enables building administrators to assign work orders and contractors to resolve them on-site.
+* **Stack:** React 19, FastAPI, PostgreSQL, JWT Authentication, TailwindCSS
+* **Focus:** Implemented three-tier role-based access control (Admin, Manager, Contractor) with scoped permissions, complete audit trail system for task modifications, and geographic organization of buildings by city/district for efficient regional management.
+
 ---
 
 ### Contact
-I am actively looking for opportunities in backend engineering or AI deployment.
+I am actively looking for opportunities in full stack development or AI deployment.
 
 * **Linkedin:** https://www.linkedin.com/in/aleksander-widman/
 * **Email:** aleksander.widman@gmail.com
