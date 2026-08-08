@@ -18,6 +18,16 @@ Beyond pure backend and AI logic, I have a deep passion for high-fidelity archit
 
 ### Featured Projects
 
+#### 🏁 F1 Grid Sense
+A machine learning pipeline and web app that predicts F1 race finishing order from pre-race data, then compares predictions against actual results.
+* **Stack:** Python, scikit-learn, FastAPI, SQLite, FastF1
+* **Focus:** Built a walk-forward cross-validated Random Forest model on ~145 non-sprint races (2018–present), avoiding lookahead leakage by training only on prior races. Exposed via a FastAPI backend and HTML/JS frontend showing predicted vs. actual finishing order, per-race rank correlation, and error metrics benchmarked against a naive grid-order baseline.
+
+#### 🏢 Structura
+A full-stack field service management system for property maintenance that enables building administrators to assign work orders and contractors to resolve them on-site.
+* **Stack:** React 19, FastAPI, PostgreSQL, JWT Authentication, TailwindCSS
+* **Focus:** Implemented three-tier role-based access control (Admin, Manager, Contractor) with scoped permissions, complete audit trail system for task modifications, and geographic organization of buildings by city/district for efficient regional management.
+
 #### 🏎️ F1-Analyzer Dashboard
 An interactive, full-stack data analysis platform designed to visualize historical Formula 1 racing data, driver performance, and telemetry strategies.
 * **Stack:** React, FastAPI, PostgreSQL, OpenF1 API
@@ -27,11 +37,6 @@ An interactive, full-stack data analysis platform designed to visualize historic
 A performance-oriented property matching engine built to simulate or process real estate filtering with high precision.
 * **Stack:** C++, Java, Object-Oriented Programming (OOP)
 * **Focus:** Implemented custom multi-criteria matching logic using robust OOP design and core data structures. Users can dynamically tailor specific parameters (such as price, dimensions, or location criteria), and the engine efficiently computes and returns the closest mathematical matches.
-
-#### 🏢 Structura
-A full-stack field service management system for property maintenance that enables building administrators to assign work orders and contractors to resolve them on-site.
-* **Stack:** React 19, FastAPI, PostgreSQL, JWT Authentication, TailwindCSS
-* **Focus:** Implemented three-tier role-based access control (Admin, Manager, Contractor) with scoped permissions, complete audit trail system for task modifications, and geographic organization of buildings by city/district for efficient regional management.
 
 ---
 
