@@ -21,7 +21,7 @@ Beyond pure backend and AI logic, I have a deep passion for high-fidelity archit
 #### 📖 [BiblAI](https://github.com/Oleq202/BiblAI)
 An agentic claim verification engine that evaluates natural language statements against a canonical scripture corpus using iterative retrieval and structured reasoning.
 * **Stack:** Python, LangGraph, Qdrant, Google Gemini, FastAPI, Sentence-Transformers, Docker
-* **Focus:** Built an Agentic RAG pipeline using LangGraph with a cyclical feedback loop that bridges semantic vocabulary mismatch via HyDE query expansion, retrieves dense vectors from Qdrant, and reranks candidates with a Cross-Encoder. Enforced strict Pydantic structured outputs with grounded citations, and developed an automated evaluation suite featuring Recall@K benchmarks and an independent LLM-as-a-Judge validation harness.
+* **Focus:** Built an Agentic RAG pipeline using LangGraph with a cyclical feedback loop that bridges vocabulary mismatch via HyDE query expansion, runs hybrid Dense (Qdrant) + Sparse (BM25 with Polish lemmatization) retrieval fused via Reciprocal Rank Fusion, and reranks candidates with a multilingual Cross-Encoder. Enforced strict Pydantic structured outputs with grounded verse citations, and developed an automated evaluation suite featuring Recall@K benchmarks and an independent LLM-as-a-Judge validation harness.
 
 #### 🏁 [F1 Grid Sense](https://github.com/Oleq202/F1-Grid-Sense)
 A machine learning pipeline and web app that predicts F1 race finishing order from pre-race data, then compares predictions against actual results.
